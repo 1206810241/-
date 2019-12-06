@@ -1,0 +1,104 @@
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe, Version: 8.0.18 (MySQL Community Server - GPL). started with:
+TCP Port: 0, Named Pipe: MySQL
+Time                 Id Command    Argument
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe, Version: 8.0.18 (MySQL Community Server - GPL). started with:
+TCP Port: 3306, Named Pipe: MySQL
+Time                 Id Command    Argument
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe, Version: 8.0.18 (MySQL Community Server - GPL). started with:
+TCP Port: 3306, Named Pipe: MySQL
+Time                 Id Command    Argument
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe, Version: 8.0.18 (MySQL Community Server - GPL). started with:
+TCP Port: 3306, Named Pipe: MySQL
+Time                 Id Command    Argument
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe, Version: 8.0.18 (MySQL Community Server - GPL). started with:
+TCP Port: 3306, Named Pipe: MySQL
+Time                 Id Command    Argument
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe, Version: 8.0.18 (MySQL Community Server - GPL). started with:
+TCP Port: 3306, Named Pipe: MySQL
+Time                 Id Command    Argument
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe, Version: 8.0.18 (MySQL Community Server - GPL). started with:
+TCP Port: 3306, Named Pipe: MySQL
+Time                 Id Command    Argument
+# Time: 2019-11-19T15:43:06.930197Z
+# User@Host: root[root] @ localhost [127.0.0.1]  Id:    74
+# Query_time: 64.534072  Lock_time: 0.000000 Rows_sent: 0  Rows_examined: 0
+use mydb;
+SET timestamp=1574178122;
+# administrator command: Prepare;
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe, Version: 8.0.18 (MySQL Community Server - GPL). started with:
+TCP Port: 3306, Named Pipe: MySQL
+Time                 Id Command    Argument
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe, Version: 8.0.18 (MySQL Community Server - GPL). started with:
+TCP Port: 3306, Named Pipe: MySQL
+Time                 Id Command    Argument
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe, Version: 8.0.18 (MySQL Community Server - GPL). started with:
+TCP Port: 3306, Named Pipe: MySQL
+Time                 Id Command    Argument
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe, Version: 8.0.18 (MySQL Community Server - GPL). started with:
+TCP Port: 3306, Named Pipe: MySQL
+Time                 Id Command    Argument
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe, Version: 8.0.18 (MySQL Community Server - GPL). started with:
+TCP Port: 3306, Named Pipe: MySQL
+Time                 Id Command    Argument
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe, Version: 8.0.18 (MySQL Community Server - GPL). started with:
+TCP Port: 3306, Named Pipe: MySQL
+Time                 Id Command    Argument
+# Time: 2019-12-05T03:32:24.045794Z
+# User@Host: root[root] @ localhost [::1]  Id:    22
+# Query_time: 18.776194  Lock_time: 0.002171 Rows_sent: 19924  Rows_examined: 19924
+use mydb;
+SET timestamp=1575516725;
+select * from mydb.data_event;
+# Time: 2019-12-05T03:37:58.079364Z
+# User@Host: root[root] @ localhost [::1]  Id:    29
+# Query_time: 10.810830  Lock_time: 0.000586 Rows_sent: 19924  Rows_examined: 19924
+SET timestamp=1575517067;
+select * from mydb.data_event;
+# Time: 2019-12-05T04:01:14.931326Z
+# User@Host: root[root] @ localhost [::1]  Id:    59
+# Query_time: 10.994457  Lock_time: 0.000256 Rows_sent: 19924  Rows_examined: 19924
+SET timestamp=1575518463;
+select * from mydb.data_event;
+# Time: 2019-12-05T04:01:49.480777Z
+# User@Host: root[root] @ localhost [::1]  Id:    60
+# Query_time: 12.772311  Lock_time: 0.000186 Rows_sent: 19924  Rows_examined: 19924
+SET timestamp=1575518496;
+select * from mydb.data_event;
+# Time: 2019-12-05T04:09:01.444016Z
+# User@Host: root[root] @ localhost [::1]  Id:    65
+# Query_time: 269.979525  Lock_time: 0.000194 Rows_sent: 19924  Rows_examined: 19924
+SET timestamp=1575518671;
+select * from mydb.data_event;
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe, Version: 8.0.18 (MySQL Community Server - GPL). started with:
+TCP Port: 3306, Named Pipe: MySQL
+Time                 Id Command    Argument
+# Time: 2019-12-05T07:07:18.179546Z
+# User@Host: root[root] @ localhost [::1]  Id:    99
+# Query_time: 11.705190  Lock_time: 0.000843 Rows_sent: 19924  Rows_examined: 19924
+use mydb;
+SET timestamp=1575529626;
+select * from mydb.data_event;
+# Time: 2019-12-05T08:06:25.480013Z
+# User@Host: root[root] @ localhost [::1]  Id:   159
+# Query_time: 17.733019  Lock_time: 0.000641 Rows_sent: 19924  Rows_examined: 19924
+SET timestamp=1575533167;
+select * from mydb.data_event;
+# Time: 2019-12-05T08:12:46.651899Z
+# User@Host: root[root] @ localhost [::1]  Id:   164
+# Query_time: 87.694924  Lock_time: 0.000403 Rows_sent: 19924  Rows_examined: 19924
+SET timestamp=1575533478;
+select * from mydb.data_event;
+# Time: 2019-12-05T08:18:28.652877Z
+# User@Host: root[root] @ localhost [::1]  Id:   175
+# Query_time: 11.610879  Lock_time: 0.000123 Rows_sent: 19924  Rows_examined: 19924
+SET timestamp=1575533897;
+select * from mydb.data_event;
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe, Version: 8.0.18 (MySQL Community Server - GPL). started with:
+TCP Port: 3306, Named Pipe: MySQL
+Time                 Id Command    Argument
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe, Version: 8.0.18 (MySQL Community Server - GPL). started with:
+TCP Port: 3306, Named Pipe: MySQL
+Time                 Id Command    Argument
+C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe, Version: 8.0.18 (MySQL Community Server - GPL). started with:
+TCP Port: 3306, Named Pipe: MySQL
+Time                 Id Command    Argument

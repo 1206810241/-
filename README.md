@@ -3,3 +3,4 @@
 工程使用的是mysql数据库，需下载mysql并搭配环境
 database是数据库文件
 database中ib_logfile0，ib_logfile1两个文件因上传限制未能成功。该文件用于存放InnoDB引擎的事务日志信息。
+网页上的时间选择框是html自带的，有些浏览器不支持，推荐使用谷歌浏览器打开
